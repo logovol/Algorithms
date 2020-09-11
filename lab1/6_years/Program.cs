@@ -15,28 +15,16 @@ namespace _6_years
                 int c = DigitNumber(i);
                 int num = i % 10;
 
-                if (c == 1)
+                if (i % 100 >= 11 && i % 100 <= 14)
                 {
-                    if (num >= 5 && num <= 9 || num == 0)
-                        Console.WriteLine($"{i} лет");
-                    else if (num >= 2 && num <= 4)
-                        Console.WriteLine($"{i} года");
-                    else
-                        Console.WriteLine($"{i} год");
-                    continue;
+                    Console.WriteLine($"{i} лет");
                 }
-
-                if (c > 1)
-                    if (i % 100 >= 11 && i % 100 <= 14)
-                    {
-                        Console.WriteLine($"{i} лет");                        
-                    }                
-                    else if (num >= 5 && num <= 9 || num == 0)
-                        Console.WriteLine($"{i} лет");
-                    else if (num >= 2 && num <= 4)
-                        Console.WriteLine($"{i} года");
-                    else
-                        Console.WriteLine($"{i} год");
+                else if (num >= 5 && num <= 9 || num == 0)
+                    Console.WriteLine($"{i} лет");
+                else if (num >= 2 && num <= 4)
+                    Console.WriteLine($"{i} года");
+                else
+                    Console.WriteLine($"{i} год");
             }
 
             Console.ReadLine();
