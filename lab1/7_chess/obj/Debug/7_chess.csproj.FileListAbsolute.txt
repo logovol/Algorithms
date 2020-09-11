@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\Algorithm\lab1\7_chess\bin\Debug\7_chess.exe.config
+D:\Study\GeekBrains\Algorithm\lab1\7_chess\bin\Debug\7_chess.exe
+D:\Study\GeekBrains\Algorithm\lab1\7_chess\bin\Debug\7_chess.pdb
+D:\Study\GeekBrains\Algorithm\lab1\7_chess\obj\Debug\7_chess.csprojAssemblyReference.cache
+D:\Study\GeekBrains\Algorithm\lab1\7_chess\obj\Debug\7_chess.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\Algorithm\lab1\7_chess\obj\Debug\7_chess.exe
+D:\Study\GeekBrains\Algorithm\lab1\7_chess\obj\Debug\7_chess.pdb

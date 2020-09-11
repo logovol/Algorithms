@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\Algorithm\lab1\6_years\bin\Debug\6_years.exe.config
+D:\Study\GeekBrains\Algorithm\lab1\6_years\bin\Debug\6_years.exe
+D:\Study\GeekBrains\Algorithm\lab1\6_years\bin\Debug\6_years.pdb
+D:\Study\GeekBrains\Algorithm\lab1\6_years\obj\Debug\6_years.csprojAssemblyReference.cache
+D:\Study\GeekBrains\Algorithm\lab1\6_years\obj\Debug\6_years.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\Algorithm\lab1\6_years\obj\Debug\6_years.exe
+D:\Study\GeekBrains\Algorithm\lab1\6_years\obj\Debug\6_years.pdb

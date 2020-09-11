@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\Algorithm\lab1\14_automorph\bin\Debug\14_automorph.exe.config
+D:\Study\GeekBrains\Algorithm\lab1\14_automorph\bin\Debug\14_automorph.exe
+D:\Study\GeekBrains\Algorithm\lab1\14_automorph\bin\Debug\14_automorph.pdb
+D:\Study\GeekBrains\Algorithm\lab1\14_automorph\obj\Debug\14_automorph.csprojAssemblyReference.cache
+D:\Study\GeekBrains\Algorithm\lab1\14_automorph\obj\Debug\14_automorph.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\Algorithm\lab1\14_automorph\obj\Debug\14_automorph.exe
+D:\Study\GeekBrains\Algorithm\lab1\14_automorph\obj\Debug\14_automorph.pdb

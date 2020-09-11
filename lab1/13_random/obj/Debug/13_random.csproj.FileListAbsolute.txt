@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\Algorithm\lab1\13_random\bin\Debug\13_random.exe.config
+D:\Study\GeekBrains\Algorithm\lab1\13_random\bin\Debug\13_random.exe
+D:\Study\GeekBrains\Algorithm\lab1\13_random\bin\Debug\13_random.pdb
+D:\Study\GeekBrains\Algorithm\lab1\13_random\obj\Debug\13_random.csprojAssemblyReference.cache
+D:\Study\GeekBrains\Algorithm\lab1\13_random\obj\Debug\13_random.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\Algorithm\lab1\13_random\obj\Debug\13_random.exe
+D:\Study\GeekBrains\Algorithm\lab1\13_random\obj\Debug\13_random.pdb
