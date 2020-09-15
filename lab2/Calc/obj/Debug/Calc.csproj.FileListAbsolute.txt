@@ -1,0 +1,7 @@
+D:\Csharp\AlgStruct\lab2\Calc\bin\Debug\Calc.exe.config
+D:\Csharp\AlgStruct\lab2\Calc\bin\Debug\Calc.exe
+D:\Csharp\AlgStruct\lab2\Calc\bin\Debug\Calc.pdb
+D:\Csharp\AlgStruct\lab2\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+D:\Csharp\AlgStruct\lab2\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\Csharp\AlgStruct\lab2\Calc\obj\Debug\Calc.exe
+D:\Csharp\AlgStruct\lab2\Calc\obj\Debug\Calc.pdb

@@ -1,0 +1,7 @@
+D:\Csharp\AlgStruct\lab2\Clac\bin\Debug\Clac.exe.config
+D:\Csharp\AlgStruct\lab2\Clac\bin\Debug\Clac.exe
+D:\Csharp\AlgStruct\lab2\Clac\bin\Debug\Clac.pdb
+D:\Csharp\AlgStruct\lab2\Clac\obj\Debug\Clac.csprojAssemblyReference.cache
+D:\Csharp\AlgStruct\lab2\Clac\obj\Debug\Clac.csproj.CoreCompileInputs.cache
+D:\Csharp\AlgStruct\lab2\Clac\obj\Debug\Clac.exe
+D:\Csharp\AlgStruct\lab2\Clac\obj\Debug\Clac.pdb
