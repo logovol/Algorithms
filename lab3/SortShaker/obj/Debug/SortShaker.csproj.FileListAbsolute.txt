@@ -1,0 +1,7 @@
+D:\Csharp\AlgStruct\lab3\SortShaker\bin\Debug\SortShaker.exe.config
+D:\Csharp\AlgStruct\lab3\SortShaker\bin\Debug\SortShaker.exe
+D:\Csharp\AlgStruct\lab3\SortShaker\bin\Debug\SortShaker.pdb
+D:\Csharp\AlgStruct\lab3\SortShaker\obj\Debug\SortShaker.csprojAssemblyReference.cache
+D:\Csharp\AlgStruct\lab3\SortShaker\obj\Debug\SortShaker.csproj.CoreCompileInputs.cache
+D:\Csharp\AlgStruct\lab3\SortShaker\obj\Debug\SortShaker.exe
+D:\Csharp\AlgStruct\lab3\SortShaker\obj\Debug\SortShaker.pdb

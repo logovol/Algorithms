@@ -1,0 +1,7 @@
+D:\Csharp\AlgStruct\lab3\SortBubl\bin\Debug\SortBubl.exe.config
+D:\Csharp\AlgStruct\lab3\SortBubl\bin\Debug\SortBubl.exe
+D:\Csharp\AlgStruct\lab3\SortBubl\bin\Debug\SortBubl.pdb
+D:\Csharp\AlgStruct\lab3\SortBubl\obj\Debug\SortBubl.csprojAssemblyReference.cache
+D:\Csharp\AlgStruct\lab3\SortBubl\obj\Debug\SortBubl.csproj.CoreCompileInputs.cache
+D:\Csharp\AlgStruct\lab3\SortBubl\obj\Debug\SortBubl.exe
+D:\Csharp\AlgStruct\lab3\SortBubl\obj\Debug\SortBubl.pdb

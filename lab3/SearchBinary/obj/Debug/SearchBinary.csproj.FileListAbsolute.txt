@@ -1,0 +1,7 @@
+D:\Csharp\AlgStruct\lab3\SearchBinary\bin\Debug\SearchBinary.exe.config
+D:\Csharp\AlgStruct\lab3\SearchBinary\bin\Debug\SearchBinary.exe
+D:\Csharp\AlgStruct\lab3\SearchBinary\bin\Debug\SearchBinary.pdb
+D:\Csharp\AlgStruct\lab3\SearchBinary\obj\Debug\SearchBinary.csprojAssemblyReference.cache
+D:\Csharp\AlgStruct\lab3\SearchBinary\obj\Debug\SearchBinary.csproj.CoreCompileInputs.cache
+D:\Csharp\AlgStruct\lab3\SearchBinary\obj\Debug\SearchBinary.exe
+D:\Csharp\AlgStruct\lab3\SearchBinary\obj\Debug\SearchBinary.pdb
