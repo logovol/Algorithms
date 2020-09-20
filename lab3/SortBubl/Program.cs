@@ -45,8 +45,7 @@ namespace SortBubl
                 {                    
                     counter++;
                     if (a[j] > a[j + 1])
-                    {
-                        counter++;
+                    {                        
                         int t = a[j + 1];
                         a[j + 1] = a[j];
                         a[j] = t;

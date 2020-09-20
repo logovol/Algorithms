@@ -44,8 +44,7 @@ namespace SortShaker
                 {
                     counter++;
                     if (a[j - 1] > a[j])
-                    {
-                        counter++;
+                    {                        
                         int t = a[j - 1];
                         a[j - 1] = a[j];
                         a[j] = t;
@@ -58,8 +57,7 @@ namespace SortShaker
                 {
                     counter++;
                     if (a[j - 1] > a[j])
-                    {
-                        counter++;
+                    {                        
                         int t = a[j - 1];
                         a[j - 1] = a[j];
                         a[j] = t;
