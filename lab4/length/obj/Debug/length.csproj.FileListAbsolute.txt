@@ -1,0 +1,7 @@
+D:\Csharp\AlgStruct\lab4\length\bin\Debug\length.exe.config
+D:\Csharp\AlgStruct\lab4\length\bin\Debug\length.exe
+D:\Csharp\AlgStruct\lab4\length\bin\Debug\length.pdb
+D:\Csharp\AlgStruct\lab4\length\obj\Debug\length.csprojAssemblyReference.cache
+D:\Csharp\AlgStruct\lab4\length\obj\Debug\length.csproj.CoreCompileInputs.cache
+D:\Csharp\AlgStruct\lab4\length\obj\Debug\length.exe
+D:\Csharp\AlgStruct\lab4\length\obj\Debug\length.pdb
