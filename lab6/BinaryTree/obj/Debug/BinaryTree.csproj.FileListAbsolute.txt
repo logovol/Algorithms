@@ -1,0 +1,7 @@
+D:\Csharp\Algorithms\lab6\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\Csharp\Algorithms\lab6\BinaryTree\bin\Debug\BinaryTree.exe
+D:\Csharp\Algorithms\lab6\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Csharp\Algorithms\lab6\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+D:\Csharp\Algorithms\lab6\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Csharp\Algorithms\lab6\BinaryTree\obj\Debug\BinaryTree.exe
+D:\Csharp\Algorithms\lab6\BinaryTree\obj\Debug\BinaryTree.pdb
