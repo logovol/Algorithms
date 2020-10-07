@@ -1,0 +1,7 @@
+D:\Study\GeekBrains\Algorithm\lab8\SortBinaryInsert\bin\Debug\SortBinaryInsert.exe.config
+D:\Study\GeekBrains\Algorithm\lab8\SortBinaryInsert\bin\Debug\SortBinaryInsert.exe
+D:\Study\GeekBrains\Algorithm\lab8\SortBinaryInsert\bin\Debug\SortBinaryInsert.pdb
+D:\Study\GeekBrains\Algorithm\lab8\SortBinaryInsert\obj\Debug\SortBinaryInsert.csprojAssemblyReference.cache
+D:\Study\GeekBrains\Algorithm\lab8\SortBinaryInsert\obj\Debug\SortBinaryInsert.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\Algorithm\lab8\SortBinaryInsert\obj\Debug\SortBinaryInsert.exe
+D:\Study\GeekBrains\Algorithm\lab8\SortBinaryInsert\obj\Debug\SortBinaryInsert.pdb
